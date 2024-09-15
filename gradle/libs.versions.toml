@@ -16,9 +16,9 @@ junit = "4.13.2"
 kotlin = "2.0.20"
 kotlinx-coroutines = "1.8.1"
 
-ktor = "3.0.0-rc-1"
+ktor = "2.3.12"
 moko-mvvm = "0.16.1"
-kamel = "0.8.3"
+kamel = "0.9.5"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
